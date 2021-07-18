@@ -1,0 +1,9 @@
+1.
+*Variable: las variables son formas de darle un valor a algo que queramos utilizar mas adelante.
+*Strings: son grupos de textos encerrados entre comillas, se utilizan las comillas para que nuestra consola identifique que es un texto. Un numero puede ser un string, siempre que el mismo este entre comillas. Si asi no fuera, la consola lo tomaria como numero
+*Funciones: las funciones son grupos de codigos guardados para que podamos ejecutarlos cuando los necesitemos y que generalmente utilizamos muchas veces.
+           *argumentos: son deficiniciones que les damos a las funciones, los argumentos son variables dentro de una funcion
+           *"return": es una forma de establecer una variable, de manera tal que devuelva lo que nosotros le establecimos
+*Declaraciones: las declaraciones son afirmaciones que establecemos dentro de las funciones.
+               "if": lo utilizamos para poder generar una condicion dentro de la declaracion.
+*Valores booleanos: son los resultados de las declaraciones una vez que se compararon con la condicion que establecimos dentro de la funcion. Los resultados posibles son dos, true o false.
