@@ -1,0 +1,11 @@
+Homework Definiciones 03-JS-II
+
+"For": Es utilizado para generar ciclos automaticos de ejecuciones de codigos,
+siempre y cuando las variables que establecimos en su inicio cumplan con las condiciones que
+establecimos luego. Dentro de la estructura del bucle tambien hay que generar un incremento en la variable.
+
+&&: es un operador de comparacion y sirve para evaluar dos expresiones y ambas dos tienen que ser "true" para
+que el codigo que establecimos se ejecute
+
+||: es otro operador de comparacion y a diferencia de &&, evalua dos expresiones y basta con que alguna de las
+dos expresiones sea true para que se ejecute el codigo que establecimos dentro de la funcion.
