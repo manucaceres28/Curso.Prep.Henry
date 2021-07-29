@@ -1,0 +1,3 @@
+Homework JSIII
+
+Arrays: Son objetos parecidos a una lista. Definirlos como arrays me sirven para poder acceder a ellos, recorrerlos, ingresar elementos o sacarlos.
