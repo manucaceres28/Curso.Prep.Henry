@@ -1,0 +1,12 @@
+Homework JS-IV
+
+Objetos: son contenedores de muchas caracteristicas referidas al propio objeto
+
+Propiedades: son las variables que  estan relacionadas directamente con el objeto definido, son sus caracteristicas.
+
+Metodos: los metodos hacen referencia a las funciones que establecemos dentro de las propiedades de los objetos.
+
+Bucle for in: es utilizado para realizar ciclos dentro de los objetos.
+
+Notacion de puntos o Notacion de corchetes: son dos maneras de definir las propiedades de los objetos, la notacion de puntos 
+es mas facil de realizar, ya que es mas intuitiva. Si bien la notacion de corchetes es mas compleja, no deja de hacer la misma accion que la de los puntos.
