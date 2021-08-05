@@ -1,0 +1,7 @@
+Homework JS-V
+
+Prototype: son propiedades naturales de las clases y que podemos utilizar para los objetos creados dentro de 
+las clases a la cual pertenece el prototype.
+
+Constructors (clases): manera de crear metodos y propiedades utilizables por varios objetos. Se utilizan constructores
+para no ser repetitivos en la confeccion de los codigos.
