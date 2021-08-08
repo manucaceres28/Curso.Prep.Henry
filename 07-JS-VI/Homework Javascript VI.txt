@@ -1,0 +1,8 @@
+Homework Javascript VI
+
+Funciones Callbacks
+
+Son los llamados que hacemos a otras funciones antes definidas, para que participen de la funcion que
+definimos posteriormente.
+Utilizamos las siglas CB para referenciar dentro de la funcion nueva, que estamos haciendo referencia a una funcion
+que establecimos anteriormente y que es util utilizarla en ese momento, participa pasada como argumento de la nueva funcion.
