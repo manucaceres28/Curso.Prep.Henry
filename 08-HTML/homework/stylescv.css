@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+}
+img {
+    float: right;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+li {
+    font-size: 18px;
+}
+p { font-size: 22px;
+    font-weight: 900;
+}
+#descripcion {
+    font-size: 25px;
+    font-weight: 900;
+    text-decoration: underline;
+}
